@@ -1,0 +1,12 @@
+{
+  "name": "su-carousel",
+  "version": "1.0.0",
+  "description": "1. 默认参数还无法设置",
+  "main": "su-carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
